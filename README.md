@@ -4,4 +4,4 @@
 
 # Soy un Programador Junior en busca de realizar proyectos 
 # Tengo conocimientos en desarrollo web , Robotica y sistemas operativos
-# tambien toy estudiando Ciberseguridad
+# tambien soy estudiando de Ciberseguridad
